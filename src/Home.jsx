@@ -11,8 +11,8 @@ const Home = () =>{
     <div className="lg:w-4/5 mx-auto flex flex-wrap">
       <img alt="ecommerce" className="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded" id ="img" src={me}/>
       <div className="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-        <h1 className="text-sm title-font text-gray-500 tracking-widest" className="p">Rishabh Sharma</h1>
-        <h2 className="text-gray-900 text-3xl title-font font-medium mb-1"  className="h">Welcome To My React Page</h2>
+        <h1 className="text-sm title-font text-gray-500 tracking-widest p" >Rishabh Sharma</h1>
+        <h2 className="text-gray-900 text-3xl title-font font-medium mb-1 h"  >Welcome To My React Page</h2>
         <div className="flex mb-4">
           <span className="flex items-center">
             <svg fill="currentColor" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" stroke-width="2" className="w-4 h-4 text-indigo-500" viewBox="0 0 24 24">
@@ -30,7 +30,7 @@ const Home = () =>{
             <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" stroke-width="2" className="w-4 h-4 text-indigo-500" viewBox="0 0 24 24">
               <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
             </svg>
-            <span className="text-gray-600 ml-3" className="p">mY Social:</span>
+            <span className="text-gray-600 ml-3 p">mY Social:</span>
           </span>
           <span className="flex ml-3 pl-3 py-2 border-l-2 border-gray-200 space-x-2s">
             <a className="text-gray-500" href="https://www.facebook.com/profile.php?id=100008501496736" target="blank">
@@ -50,7 +50,7 @@ const Home = () =>{
             </a>
           </span>
         </div>
-        <p className="leading-relaxed" className="p">Hello guys welcome to my first ever react page i hope you like it please tell me how is it ? microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +
+        <p className="leading-relaxed p">Hello guys welcome to my first ever react page i hope you like it please tell me how is it ? microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +
         1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
         <div className="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">
          
